@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SesRiya
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...information systems
+- 👋 Hi, I’m Rhea Gorospe
+- 👀 I’m interested in ...Software Dev
+- 🌱 I’m currently learning ...Master's in Software Development at Victoria University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
